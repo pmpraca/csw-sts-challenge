@@ -1,4 +1,5 @@
 # csw-sts-challenge
+Critical SummerCamp
 Repository for the Platoon Clone Warriors
 
 This repo contains our STS Challenge - IoT Project which consists of an IoT sensor data generator
